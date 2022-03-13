@@ -50,3 +50,5 @@ Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
         5.- Servir y acompañar con miel, rebanadas de manzana y nueces.
 
 
+:bulb: Tips
+        Puedes acompañar con la fruta de tu prefencia o con yogurt griego.
