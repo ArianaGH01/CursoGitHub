@@ -6,7 +6,7 @@ Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
 
 ![Esta es una imagen](/Imagenes/hot_cakes_de_manzana.jpeg)
 
-Comenzemos!!!:high_brightness:
+*Comenzemos!!!*:high_brightness:
 
 :fork_and_knife: **Porciones:** 2
 
@@ -30,6 +30,7 @@ Comenzemos!!!:high_brightness:
 **Instrucciones**
 
 :one: **Mezclar**
+        
         1.- En un bol mezclar la avena, el endulzante, el polvo para hornear y la canela.
 
 :two:
