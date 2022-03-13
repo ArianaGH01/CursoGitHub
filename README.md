@@ -29,12 +29,20 @@ Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
 
 **Instrucciones**
 
-:one: **Mezclar**
+        :one: **Mezclar**
         
-        1.- En un bol mezclar la avena, el endulzante, el polvo para hornear y la canela.
+                1.- En un bol mezclar la avena, el endulzante, el polvo para hornear y la canela.
 
-:two:
+        :two: **Licuar**
+                2.- Verter en la licuadora la mezcla realizada anteriormente, la manzana, la mantequilla derretida, el huevo y la leche de almendras; licuar todos los ingredientes.
 
-:three:
+        :three: **Reposar**
+                3.- Meter la mezcla en el refrigerador y dejar reposar por 10 minutos para la avena se hidrate.
 
-:four:
+        :four: **Cocer**
+                4.- Con un cucharon verter un poco de la mezcla en una sarten previamente calentado, esperar a que empiecen a salir burbujas y voltear el hot cake, cocer 3 minutos por ambos lados. Realizar lo mismo con toda la mezcla.
+
+        :five: **Servir** 
+                5.- Servir y acompañar con miel, rebanadas de manzana y nueces.
+
+
