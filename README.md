@@ -4,7 +4,7 @@ ls# CursoGitHub
 
 Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
 
-![Esta es una imagen](/git-repos/CursoGitHub/Imagenes/hot_cakes_de_manzana.jpeg)
+![Esta es una imagen](/Imagenes/hot_cakes_de_manzana.jpeg)
 
 Comenzemos!!!:high_brightness:
 
