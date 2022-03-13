@@ -25,3 +25,15 @@ Comenzemos!!!:high_brightness:
 - 8 gramos de polvo para hornear
 - 1 Pizca de sal
 - Canela molida al gusto
+
+
+**Instrucciones**
+
+:one: **Mezclar**
+        1.- En un bol mezclar la avena, el endulzante, el polvo para hornear y la canela.
+
+:two:
+
+:three:
+
+:four:
