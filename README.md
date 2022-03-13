@@ -13,3 +13,15 @@ Comenzemos!!!:high_brightness:
 :alarm_clock: **Total:** 25 min  |  **Prepación:** 6 min  |  **Cocción:** 6 min  |  **Espera:** 10 min  |  **Servir:** 3 min
 
 :bar_chart: **Dificultad:** Fácil :black_medium_square: :white_medium_square: :white_medium_square:
+
+**Ingredientes**
+
+- 1 Taza de avena molida
+- 1 Manzana grande
+- 1 Huevo
+- 3/4 Taza de leche de almendras
+- 1 Cucharida de esencia de vainilla
+- 15 gramos de mantequilla
+- 8 gramos de polvo para hornear
+- 1 Pizca de sal
+- Canela molida al gusto
