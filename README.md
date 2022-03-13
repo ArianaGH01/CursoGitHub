@@ -53,3 +53,13 @@ Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
 :bulb: Tips
         
         Puedes acompañar con la fruta de tu prefencia o con yogurt griego.
+
+
+**Información Nutricional**
+
+| Información nutricional por porción | --- |
+| --- | --- |
+| Calorias | 199 kcal |
+| Proteína | 6 gr |
+| Carbohidratos | 31 gr |
+| Grasa | 7 gr |
