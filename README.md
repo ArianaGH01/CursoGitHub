@@ -57,7 +57,7 @@ Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
 
 **Información Nutricional**
 
-| Información nutricional por porción | --- |
+| Información nutricional | 1 porción |
 | --- | --- |
 | Calorias | 199 kcal |
 | Proteína | 6 gr |
