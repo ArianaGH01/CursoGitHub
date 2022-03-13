@@ -3,7 +3,7 @@ ls# CursoGitHub
 ### El contenido será una receta de cocina
 
 Mi primer receta es: **"Hotcakes saludables de manzana y avena"**
-/assets/Imagenes/hot_cakes_de_manzana.jpeg
+git-repos\CursoGitHub\Imagenes\hot_cakes_de_manzana.jpeg
 
 Comenzemos!!!:high_brightness:
 
